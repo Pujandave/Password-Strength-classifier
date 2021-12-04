@@ -1,4 +1,4 @@
-# Password-Strength-classifier
+# Password-Strength-Classifier
 Password Strength Classifier using NLP techniques.
 
 Predict the category of Password whether it is Strong, Good or Weak.
